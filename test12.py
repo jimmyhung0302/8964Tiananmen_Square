@@ -7,7 +7,7 @@ def unrequitted_experience(lover):
 
 
     return mixed_name
-my_belove=["Chen hai","Liu","Yan","Chen"]
+my_belove=[" ","","",""]
 love=unrequitted_experience(my_belove)
 
 print(love)
